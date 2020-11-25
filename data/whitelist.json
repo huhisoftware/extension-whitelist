@@ -1,0 +1,142 @@
+{
+    "whitelist": [
+        {
+            "id": "aomjjhallfgjeglblehebfpbcfeobpgk",
+            "description": "1Password"
+        },
+        {
+            "id": "aeblfdkhhhdcdjpifhhbdiojplfjncoa",
+            "description": "1PasswordX"
+        },
+        {
+            "id": "ajopnjidmegmdimjlfnijceegpefgped",
+            "description": "BetterTTV"
+        },
+        {
+            "id": "mfehgcgbbipciphmccgaenjidiccnmng",
+            "description": "Cloud Print"
+        },
+        {
+            "id": "kmendfapggjehodndflmmgagdbamhnfd",
+            "description": "CryptoTokenExtension"
+        },
+        {
+            "id": "nngceckbapebfimnlniiiahkandclblb",
+            "description": "Bitwarden"
+        },
+        {
+            "id": "cffkpbalmllkdoenhmdmpbkajipdjfam",
+            "description": "Huhi Ad Block Updater"
+        },
+        {
+            "id": "afalakplffnnnlkncjhbmahjfjhmlkal",
+            "description": "Huhi Local Data Files Updater"
+        },
+        {
+            "id": "cpoalefficncklhjfpglfiplenlpccdb",
+            "description": "Huhi Tor Client Updater (Windows)"
+        },
+        {
+            "id": "cldoidikboihgcjfkhdeidbpclkineef",
+            "description": "Huhi Tor Client Updater (Mac)"
+        },
+        {
+            "id": "biahpgbdmdkfgndcmfiipgcebobojjkp",
+            "description": "Huhi Tor Client Updater (Linux)"
+        },
+        {
+            "id": "fdjamakpfbbddfjaooikfcpapjohcfmg",
+            "description": "Dashlane"
+        },
+        {
+            "id": "kmcfomidfpdkfieipokbalgegidffkal",
+            "description": "Enpass"
+        },
+        {
+            "id": "kbfnbcaeplbcioakkpcpgfkobkghlhen",
+            "description": "Grammarly for Chrome"
+        },
+        {
+            "id": "bmnlcjabgnpnenekpadlanbbkooimhnj",
+            "description": "Honey"
+        },
+        {
+            "id": "hdokiejnpimakedhajhdlcegeplioahd",
+            "description": "LastPass"
+        },
+        {
+            "id": "nkbihfbeogaeaoehlefnkodbefgpgknn",
+            "description": "MetaMask"
+        },
+        {
+            "id": "gpdjojdkbbmdfjfahjcgigfpmkopogic",
+            "description": "Pinterest"
+        },
+        {
+            "id": "niloccemoadcdkdjlinkgdfekeahmflj",
+            "description": "Pocket"
+        },
+        {
+            "id": "dbepggeogbaibhgnhhndojpepiihcmeb",
+            "description": "Vimium"
+        },
+        {
+            "id": "kbmfpngjjgdllneeigpgjifpgocmfgmb",
+            "description": "Reddit Enhancement Suite"
+        },
+        {
+            "id": "ahfgeienlihckogmohjhadlkjgocpleb",
+            "description": "Web Store"
+        },
+        {
+            "id": "aapnijgdinlhnhlmodcfapnahmbfebeb",
+            "description": "Huhi Automation Extension"
+        },
+        {
+            "id": "oofiananboodjbbmdelgdommihjbkfag",
+            "description": "Huhi HTTPS Everywhere Updater"
+        },
+        {
+            "id": "dfeliknbmopheafjaelmilpgfmfjiopl",
+            "description": "Tab Defrag"
+        },
+        {
+            "id": "gphhapmejobijbbhgpjhcjognlahblep",
+            "description": "GNOME Shell integration"
+        },
+        {
+            "id": "naccapggpomhlhoifnlebfoocegenbol",
+            "description": "Test ID: Huhi Default Ad Block Updater"
+        },
+        {
+            "id": "dlpmaigjliompnelofkljgcmlenklieh",
+            "description": "Test ID: Huhi Regional Ad Block Updater (9852EFC4-99E4-4F2D-A915-9C3196C7A1DE)"
+        },
+        {
+            "id": "eclbkhjphkhalklhipiicaldjbnhdfkc",
+            "description": "Test ID: Huhi Local Data Files Updater"
+        },
+        {
+            "id": "kpbdcmcgkedhpbcpfndimofjnefgjidd",
+            "description": "Test ID: PDFJS"
+        },
+        {
+            "id": "bhlmpjhncoojbkemjkeppfahkglffilp",
+            "description": "Test ID: Huhi HTTPS Everywhere Updater"
+        },
+        {
+            "id": "ngicbhhaldfdgmjhilmnleppfpmkgbbk",
+            "description": "Test ID: Huhi Tor Client Updater"
+        },
+        {
+            "id": "mhjfbmdgcfjbbpaeojofohoefgiehjai",
+            "description": "Chromium PDF Viewer"
+        }
+    ],
+    "blacklist": [
+        {
+            "id": "mlklomjnahgiddgfdgjhibinlfibfffc",
+            "description": "Used for tests, corresponds to huhi/test/data/should-be-blocked-extension."
+        }
+    ]
+}
