@@ -23,6 +23,6 @@ source_set("extension-whitelist") {
   ]
 
   deps = [
-    rebase_path("hashset-cpp/huhisoftware:hashset-cpp", dep_base),
+    rebase_path("hashset-cpp/huhi:hashset-cpp", dep_base),
   ]
 }
